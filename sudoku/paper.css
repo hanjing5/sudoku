@@ -1,0 +1,24 @@
+/*<style>*/
+.box {
+	width:120px;
+	background:#ddd;
+}
+table.root-table {
+	background-color:#000;
+	border:1px solid #fff;
+}
+table.root-table td {
+	background:#fff;
+}
+table.root-table input {
+	background-color:#fff;
+	font:24px bold;
+	width:30px;
+	border:0px solid #fff;
+}
+.line-v {
+	background-color:#c8c8c8;
+}
+.line-h {
+	background-color:#666;
+}

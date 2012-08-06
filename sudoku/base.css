@@ -1,0 +1,63 @@
+/*<style>*/
+.possibilities-entry {
+	font-size:12px !important;
+}
+.spacer {
+	width:15px;
+}
+.control-button {
+	width:150px;
+}
+div#pen-picks input {
+	width:30px;
+}
+#selected-pen-number {
+	font-weight:bold;
+}
+#control-area label {
+	padding-right:10px;
+	font-weight:bold;
+}
+#control-area {
+	width:150px
+}
+
+/*The Input fields after the pen is picked.*/
+.pen-picked {
+	cursor: pointer;
+	cursor: hand;
+}
+/*
+.pen-picked:hover {
+	background:#FFCCCC;
+}
+*/
+#pen-tool {
+	text-align:center;
+}
+#pen-tool input {
+	border:1px solid #ccc;
+}
+
+/*The Cells that has error*/
+.problem-cell {
+	color:#f00;
+}
+
+#timer {
+	font-weight:bold;
+}
+#pause-hider {
+	display:none;
+	position:absolute;
+	top:auto;
+	left:auto;
+	text-align:center;
+	vertical-align:middle;
+	width:320px;
+	height:345px;
+	background:#fff;
+}
+.print-only {
+	display:none;
+}

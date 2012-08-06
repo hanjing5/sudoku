@@ -1,0 +1,24 @@
+/*<style>*/
+.box {
+	background:#ddd;
+}
+.box-one td,.box-one td input {background:#CC66FF;}
+.box-two td,.box-two td input {background:#FFCC33;}
+.box-three td,.box-three td input  {background:#00CCCC;}
+.box-four td,.box-four td input  {background:#FFCCCC;}
+.box-five td,.box-five td input  {background:#FFCC99;}
+.box-six td,.box-six td input  {background:#CCCCFF;}
+.box-seven td,.box-seven td input  {background:#3399FF;}
+.box-eight td,.box-eight td input  {background:#99CCCC;}
+.box-nine td,.box-nine td input  {background:#9999FF;}
+table.root-table input {
+	font:24px bold;
+	width:30px;
+	border:0px solid #fff;
+}
+.line-v {
+	background-color:#FF6600;
+}
+.line-h {
+	background-color:#006633;
+}
